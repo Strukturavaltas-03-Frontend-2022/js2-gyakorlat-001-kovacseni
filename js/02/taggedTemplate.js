@@ -1,4 +1,4 @@
-export default tag;
+export default taggedTemplate;
 
 const taggedTemplate = (texts, ...values) =>
     texts.map((text, index) =>
